@@ -9,3 +9,4 @@ Tahap Pengerjaan Kolaborasi Git:
 3. Angkatan : Belvora
 4. HOBI : MAKAN
 5. WARNA : HIJAU
+6. RUMAH : 2 LANTAI
