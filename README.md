@@ -8,4 +8,4 @@ Tahap Pengerjaan Kolaborasi Git:
 2. Kelas : 12 TKJ 2
 3. Angkatan : Belvora
 4. HOBI : MAKAN
-5. 
+5. WARNA : HIJAU
